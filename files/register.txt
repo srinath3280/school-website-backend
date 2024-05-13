@@ -1,1 +1,1 @@
-[{"username":"srinath","email":"lsrinathreddy@gmail.com","password":"Srinath@3280","confirmpassword":"Srinath@3280"}]
+[{"username":"srinath","email":"lsrinathreddy@gmail.com","password":"123456","confirmpassword":"123456"}]
